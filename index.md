@@ -2,12 +2,15 @@
 layout: default
 ---
 
-## Current Projects:
+## Projects:
 
-USCG 47ft Moter Lifeboat via. [Stormworks: Build and Rescue](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/).
-(https://steamcommunity.com/sharedfiles/filedetails/?id=3755909346)
+### [USCG 47ft Moter Lifeboat](https://steamcommunity.com/sharedfiles/filedetails/?id=3755909346)
+[Stormworks: Build and Rescue](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/).
+![Boat Image]()
 
-LoadoutFrame for Warframe by Digital Extremes
 
 
-## Completed Projects:
+### [Device Manager](https://github.com/unknown-x77/DeviceManager)
+Program to manager devices via a separate screen. Java for backend, HTML & CSS for the animations and display on the screen.
+
+
