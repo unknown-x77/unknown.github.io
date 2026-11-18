@@ -10,7 +10,7 @@ layout: default
 
 
 
-### [Device Manager](https://github.com/unknown-x77/DeviceManager)
-Program to manager devices via a separate screen. Java for backend, HTML & CSS for the animations and display on the screen.
+### [Swim Performance Analysis](https://github.com/unknown-x77/SwimPerformanceAnalysis)
+Python-based application to analyze athletic performance data, identify trends in recorded times, and estimate future performance improvements. 
 
 
